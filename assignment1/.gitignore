@@ -1,0 +1,18 @@
+# .gitignore
+# 추가할 확장자명
+
+#################
+#compiled source#
+*.a
+*.o
+*.so
+    
+############
+# packages #
+*.dmg
+*.iso
+*.tar
+*.swp
+######################
+# OS generated files #
+../.DS_Store*
